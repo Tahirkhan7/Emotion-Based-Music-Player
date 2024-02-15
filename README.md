@@ -23,4 +23,4 @@ A window will open in chrome browser having the interface of the player. Select 
 When emotion is detected, you can see the name of the emotion in the terminal open.
 
 Refer to READIT.odt for more info.
-You can also refer to this for detailed video explanation: https://drive.google.com/drive/u/1/folders/15ICiFQQaqVtChyBcxo16qs6vPPI10LmF
+You can also refer to this for detailed video explanation: [https://drive.google.com/drive/u/1/folders/15ICiFQQaqVtChyBcxo16qs6vPPI10LmF](https://drive.google.com/file/d/1fe60-VORywdBdRncBXHQku2-a2nFBedj/view?usp=sharing)https://drive.google.com/file/d/1fe60-VORywdBdRncBXHQku2-a2nFBedj/view?usp=sharing
